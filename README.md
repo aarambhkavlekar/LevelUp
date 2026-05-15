@@ -1,32 +1,32 @@
 LevelUp is an Recruitment Application which solves modern day Job Application problems with new features like 1) LOCATION BASED SEARCHING 2) IN-APP APPTITUDE TEST 3) MULTI-TAG SEARCHING
 
 
-✨ Features 
-📍 Location-based job search system
-🏷️ Multi-tag intelligent filtering system
-🧠 In-app aptitude test module for candidates
-👤 User authentication system (Login / Register)
-📄 Job listing & detailed job view system
-❤️ Save / bookmark jobs feature
-🔐 Secure session/token-based authentication
-📱 Fully responsive Flutter UI (Android / iOS / Web support)
-☁️ Backend-ready architecture (API integration support)
+✨ Features <br>
+📍 Location-based job search system<br>
+🏷️ Multi-tag intelligent filtering system<br>
+🧠 In-app aptitude test module for candidates<br>
+👤 User authentication system (Login / Register)<br>
+📄 Job listing & detailed job view system<br>
+❤️ Save / bookmark jobs feature<br>
+🔐 Secure session/token-based authentication<br>
+📱 Fully responsive Flutter UI (Android / iOS / Web support)<br>
+☁️ Backend-ready architecture (API integration support)<br>
 
-🛠 Tech Stack 
-📱 Frontend (Mobile App)
-Flutter
-Dart
-Provider / Riverpod (state management) (optional based on your use)
-Material Design UI
-🔧 Backend
-Firebase
-🗄 Database
-Firebase Firestore / PostgreSQL / MongoDB (as per your implementation)
-☁️ Other Tools
-Firebase Authentication (if used)
-Google Maps API (for location-based search)
-REST APIs
-Git & GitHub
+🛠 Tech Stack <br>
+📱 Frontend (Mobile App)<br>
+Flutter<br>
+Dart<br>
+Provider / Riverpod (state management) (optional based on your use)<br>
+Material Design UI<br>
+🔧 Backend<br>
+Firebase<br>
+🗄 Database<br>
+Firebase Firestore / PostgreSQL / MongoDB (as per your implementation)<br>
+☁️ Other Tools<br>
+Firebase Authentication (if used)<br>
+Google Maps API (for location-based search)<br>
+REST APIs<br>
+Git & GitHub<br>
 
 ScreenShots:<br>
 ![Home1](./assets/levelup%20(1).png) ![Home2](./assets/levelup%20(2).png)
@@ -34,62 +34,62 @@ ScreenShots:<br>
 ![Home5](./assets/levelup%20(5).png) ![Home6](./assets/levelup%20(6).png)
 ![Home7](./assets/levelup%20(7).png)
 
+<br>
+📁 Project Structure<br>
+LEVELUP/<br>
+└── lib/<br>
+├── application_employee.dart<br>
+├── application_recruiter.dart<br>
+├── apptitudetestselection.dart<br>
+├── aptitudet_recruiter.dart<br>
+├── firebase_options.dart<br>
+├── home_emp.dart<br>
+├── home_recruiter.dart<br>
+├── locate_company.dart<br>
+├── locate_employee.dart<br>
+├── login_page_emp.dart<br>
+├── login_page.dart<br>
+├── main.dart<br>
+├── profile_emp.dart<br>
+├── profile_recruiter.dart<br>
+├── searchpage.dart<br>
+├── signin_page_emp.dart<br>
+├── signin_page.dart<br>
+├── SignInSelectionPage.dart<br>
+└── taking_aptitude.dart<br>
 
-📁 Project Structure
-LEVELUP/
-└── lib/
-├── application_employee.dart
-├── application_recruiter.dart
-├── apptitudetestselection.dart
-├── aptitudet_recruiter.dart
-├── firebase_options.dart
-├── home_emp.dart
-├── home_recruiter.dart
-├── locate_company.dart
-├── locate_employee.dart
-├── login_page_emp.dart
-├── login_page.dart
-├── main.dart
-├── profile_emp.dart
-├── profile_recruiter.dart
-├── searchpage.dart
-├── signin_page_emp.dart
-├── signin_page.dart
-├── SignInSelectionPage.dart
-└── taking_aptitude.dart
+⚙️ Installation & Setup<br>
 
-⚙️ Installation & Setup
+git clone https://github.com/your-username/levelup.git<br>
+cd levelup<br>
+2️⃣ Install Dependencies<br>
+flutter pub get<br>
+3️⃣ Run the App<br>
+flutter run<br>
 
-git clone https://github.com/your-username/levelup.git
-cd levelup
-2️⃣ Install Dependencies
-flutter pub get
-3️⃣ Run the App
-flutter run
+🔌 How It Works<br>
+Users register/login into the app<br>
+Jobs are fetched from backend / database<br>
+Users can search jobs using:<br>
+📍 Location filters<br>
+🏷️ Multiple tags<br>
+Users can attempt in-app aptitude tests<br>
+Results help match better job recommendations<br>
+Users can save/bookmark jobs for later<br>
 
-🔌 How It Works
-Users register/login into the app
-Jobs are fetched from backend / database
-Users can search jobs using:
-📍 Location filters
-🏷️ Multiple tags
-Users can attempt in-app aptitude tests
-Results help match better job recommendations
-Users can save/bookmark jobs for later
+📱 Key Highlights<br>
+Clean and modern Flutter UI<br>
+Fast and responsive navigation<br>
+Smart filtering using tags + location<br>
 
-📱 Key Highlights
-Clean and modern Flutter UI
-Fast and responsive navigation
-Smart filtering using tags + location
+🚧 Future Improvements<br>
+🧠 AI-based job matching system<br>
+💬 In-app chat between recruiter & candidate<br>
+📊 Advanced analytics for job performance<br>
+💳 Premium job posting system<br>
+📄 Resume builder inside app<br>
+🔔 Push notifications for job alerts<br>
 
-🚧 Future Improvements
-🧠 AI-based job matching system
-💬 In-app chat between recruiter & candidate
-📊 Advanced analytics for job performance
-💳 Premium job posting system
-📄 Resume builder inside app
-🔔 Push notifications for job alerts
+👨‍💻 Author <br>Aarambh Kavlekar <br>Computer Engineering Student
 
-👨‍💻 Author Aarambh Kavlekar Computer Engineering Student
-
-📜 License This project is licensed under the MIT License.
+📜 License <br>This project is licensed under the MIT License.
