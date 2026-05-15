@@ -28,7 +28,7 @@ Google Maps API (for location-based search)
 REST APIs
 Git & GitHub
 
-ScreenShots:
+ScreenShots:<br>
 ![Home1](./assets/levelup%20(1).png) ![Home2](./assets/levelup%20(2).png)
 ![Home3](./assets/levelup%20(3).png) ![Home4](./assets/levelup%20(4).png)
 ![Home5](./assets/levelup%20(5).png) ![Home6](./assets/levelup%20(6).png)
